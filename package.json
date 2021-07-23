@@ -1,5 +1,5 @@
 {
-  "name": "nlp_compromise",
+  "name": "@shajid/nlp_compromise",
   "description": "natural language processing in the browser",
   "version": "6.5.0",
   "main": "./builds/nlp_compromise.js",
@@ -21,7 +21,6 @@
     "builds/",
     "src/"
   ],
-  "dependencies": {},
   "devDependencies": {
     "grunt-cli": "1.2.0",
     "grunt-contrib-watch": "1.0.0",
@@ -38,7 +37,9 @@
     "nlp-corpus": "latest"
   },
   "license": "MIT",
-  "__npminstall_done": true,
-  "_from": "nlp_compromise@6.5.0",
-  "_resolved": "https://registry.nlark.com/nlp_compromise/download/nlp_compromise-6.5.0.tgz"
+  "bugs": {
+    "url": "https://github.com/nlp-compromise/nlp_compromise/issues"
+  },
+  "homepage": "https://github.com/nlp-compromise/nlp_compromise#readme",
+  "author": ""
 }
